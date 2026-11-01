@@ -8,4 +8,4 @@ For my master's research I'm working on migrating large amounts of data from Ora
 
 Things I use: PostgreSQL and PL/pgSQL, SQL, Python (pandas, matplotlib, Jupyter), Git.
 
-I'm looking for a junior role working with databases or data. You can reach me at aron.cristina.alexandra@gmail.com.
+I'm looking for a junior role working with databases or data. You can reach me at aron.cristina.alexandra@gmail.com or on [LinkedIn](https://www.linkedin.com/in/alexandra-aron-647a41404/).
